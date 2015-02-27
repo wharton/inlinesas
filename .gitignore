@@ -1,0 +1,6 @@
+*.log
+*.lst
+*.pyc
+build/
+dist/
+inlinesas.egg-info/
