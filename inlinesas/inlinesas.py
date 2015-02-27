@@ -14,10 +14,9 @@ class SASReturnObject(object):
 
 def call_SAS(code_as_str, log_location=None):
     """ 
-    Call SAS from within a Python script. Pass your SAS code as a string
-    to the instance of the SAS object in question.
+    Call SAS from within a Python script. 
 
-    USAGE:
+    Usage:
     =======================================
 
     from inlinesas import call_SAS
