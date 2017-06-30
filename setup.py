@@ -5,7 +5,7 @@ except ImportError:
 
 setup(
         name="inlinesas",
-        version='0.0.3',
+        version='0.0.5',
         description="Run SAS code from within a Python script.",
         author="Joe Dougherty",
         author_email="josepd@wharton.upenn.edu",
